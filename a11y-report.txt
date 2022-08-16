@@ -1,0 +1,1089 @@
+Report Date: Tue Aug 16 2022 13:22:08 GMT+0100 (British Summer Time) 
+
+ Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project chromium" at "img[src$="Browsers.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/Browsers.png" width="40%"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project chromium" at "img[src$="VSCode.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/VSCode.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project chromium" at "img[src$="Bing.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/Bing.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project chromium" at "img[src$="Outlook.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/Outlook.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project chromium" at "img[src$="DHotstar.jpg"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/DHotstar.jpg"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project chromium" at "img[src$="MUI.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/MUI.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project chromium" at "img[src$="ING.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/ING.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project chromium" at "img[src$="Adobe2.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/Adobe2.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project chromium" at "img[src$="ReactNavigation.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/ReactNavigation.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project chromium" at "li:nth-child(9) > a[target="_blank"] > img" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/accessibilityinsights.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project chromium" at "a[href$="code.visualstudio.com"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://code.visualstudio.com" target="_blank"><img src="img/logos/VSCode.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project chromium" at "a[href$="bing.com"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://bing.com" target="_blank"><img src="img/logos/Bing.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project chromium" at "a[href$="outlook.com"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://outlook.com" target="_blank"><img src="img/logos/Outlook.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project chromium" at "a[href$="hotstar.com/"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://www.hotstar.com/" target="_blank"><img src="img/logos/DHotstar.jpg"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project chromium" at "li:nth-child(5) > a[target="_blank"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://github.com/mui-org/material-ui" target="_blank"><img src="img/logos/MUI.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project chromium" at "li:nth-child(6) > a[target="_blank"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://github.com/ing-bank/lion" target="_blank"><img src="img/logos/ING.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project chromium" at "li:nth-child(7) > a[target="_blank"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://github.com/adobe/spectrum-web-components" target="_blank"><img src="img/logos/Adobe2.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project chromium" at "li:nth-child(8) > a[target="_blank"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://github.com/react-navigation/react-navigation" target="_blank"><img src="img/logos/ReactNavigation.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project chromium" at "li:nth-child(9) > a[target="_blank"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://accessibilityinsights.io/" target="_blank"><img src="img/logos/accessibilityinsights.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+Report Date: Tue Aug 16 2022 13:22:08 GMT+0100 (British Summer Time) 
+
+ Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project webkit" at "img[src$="Browsers.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/Browsers.png" width="40%"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project webkit" at "img[src$="VSCode.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/VSCode.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project webkit" at "img[src$="Bing.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/Bing.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project webkit" at "img[src$="Outlook.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/Outlook.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project webkit" at "img[src$="DHotstar.jpg"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/DHotstar.jpg"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project webkit" at "img[src$="MUI.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/MUI.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project webkit" at "img[src$="ING.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/ING.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project webkit" at "img[src$="Adobe2.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/Adobe2.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project webkit" at "img[src$="ReactNavigation.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/ReactNavigation.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project webkit" at "li:nth-child(9) > a[target="_blank"] > img" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/accessibilityinsights.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project webkit" at "a[href$="code.visualstudio.com"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://code.visualstudio.com" target="_blank"><img src="img/logos/VSCode.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project webkit" at "a[href$="bing.com"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://bing.com" target="_blank"><img src="img/logos/Bing.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project webkit" at "a[href$="outlook.com"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://outlook.com" target="_blank"><img src="img/logos/Outlook.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project webkit" at "a[href$="hotstar.com/"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://www.hotstar.com/" target="_blank"><img src="img/logos/DHotstar.jpg"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project webkit" at "li:nth-child(5) > a[target="_blank"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://github.com/mui-org/material-ui" target="_blank"><img src="img/logos/MUI.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project webkit" at "li:nth-child(6) > a[target="_blank"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://github.com/ing-bank/lion" target="_blank"><img src="img/logos/ING.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project webkit" at "li:nth-child(7) > a[target="_blank"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://github.com/adobe/spectrum-web-components" target="_blank"><img src="img/logos/Adobe2.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project webkit" at "li:nth-child(8) > a[target="_blank"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://github.com/react-navigation/react-navigation" target="_blank"><img src="img/logos/ReactNavigation.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project webkit" at "li:nth-child(9) > a[target="_blank"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://accessibilityinsights.io/" target="_blank"><img src="img/logos/accessibilityinsights.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+Report Date: Tue Aug 16 2022 13:22:08 GMT+0100 (British Summer Time) 
+
+ Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project firefox" at "img[src$="Browsers.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/Browsers.png" width="40%"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project firefox" at "img[src$="VSCode.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/VSCode.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project firefox" at "img[src$="Bing.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/Bing.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project firefox" at "img[src$="Outlook.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/Outlook.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project firefox" at "img[src$="DHotstar.jpg"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/DHotstar.jpg"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project firefox" at "img[src$="MUI.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/MUI.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project firefox" at "img[src$="ING.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/ING.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project firefox" at "img[src$="Adobe2.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/Adobe2.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project firefox" at "img[src$="ReactNavigation.png"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/ReactNavigation.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project firefox" at "li:nth-child(9) > a[target="_blank"] > img" element on "https://playwright.dev/" path: 
+
+
+                    Impact: critical 
+
+
+                    Violation description: Images must have alternate text 
+
+
+                    HTML: <img src="img/logos/accessibilityinsights.png"> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/image-alt?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project firefox" at "a[href$="code.visualstudio.com"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://code.visualstudio.com" target="_blank"><img src="img/logos/VSCode.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project firefox" at "a[href$="bing.com"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://bing.com" target="_blank"><img src="img/logos/Bing.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project firefox" at "a[href$="outlook.com"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://outlook.com" target="_blank"><img src="img/logos/Outlook.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project firefox" at "a[href$="hotstar.com/"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://www.hotstar.com/" target="_blank"><img src="img/logos/DHotstar.jpg"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project firefox" at "li:nth-child(5) > a[target="_blank"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://github.com/mui-org/material-ui" target="_blank"><img src="img/logos/MUI.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project firefox" at "li:nth-child(6) > a[target="_blank"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://github.com/ing-bank/lion" target="_blank"><img src="img/logos/ING.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project firefox" at "li:nth-child(7) > a[target="_blank"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://github.com/adobe/spectrum-web-components" target="_blank"><img src="img/logos/Adobe2.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project firefox" at "li:nth-child(8) > a[target="_blank"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://github.com/react-navigation/react-navigation" target="_blank"><img src="img/logos/ReactNavigation.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+
+
+
+Axe has found accessibility violations in "homepage has Playwright in title and get started link linking to the intro page test in project firefox" at "li:nth-child(9) > a[target="_blank"]" element on "https://playwright.dev/" path: 
+
+
+                    Impact: serious 
+
+
+                    Violation description: Links must have discernible text 
+
+
+                    HTML: <a href="https://accessibilityinsights.io/" target="_blank"><img src="img/logos/accessibilityinsights.png"></a> 
+
+
+                    You can find more about this violation here: https://dequeuniversity.com/rules/axe/4.4/link-name?application=playwright
+
+
+                    ----------------------------------------------------------------------------
+

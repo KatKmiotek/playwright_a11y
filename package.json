@@ -1,0 +1,17 @@
+{
+  "name": "pw-a11y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.25.0",
+    "fs": "^0.0.1-security"
+  },
+  "dependencies": {
+    "@axe-core/playwright": "^4.4.3"
+  }
+}
